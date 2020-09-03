@@ -1,6 +1,6 @@
 # Forecasting-COVID19-cases
 
-This is a project on COVID-19 Analysis which visualizes the data from the johns hopkins GITHUB handel. This project contains a detailed report on key observations learnt from the given data.
+This is a project on COVID-19 Analysis which visualizes the data from the johns hopkins GITHUB handel and forecasts the COVID-19 cases into the near future. This project contains a detailed report on key observations learnt from the given data.
 
 
 # How to RUN and Modules Required
